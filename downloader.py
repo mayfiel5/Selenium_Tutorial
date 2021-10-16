@@ -3,7 +3,7 @@
 Using Selenium to Download Data from a Website
 Data Source: https://fred.stlouisfed.org/
 Selenium Library: http://robotframework.org/SeleniumLibrary/
-Author: Brad Mayfield
+Author: Bradely Mayfield
 """
 #%% Libraries
 from selenium import webdriver
